@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/scala-library-2.10.4.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/Downloads/json-org.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka/libs/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/zkclient-0.3.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/snappy-java-1.1.1.6.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1-scaladoc.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/kafka_2.10-0.8.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/kafka-clients-0.8.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/cloud/kafka_2.10-0.8.2.1/libs/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
